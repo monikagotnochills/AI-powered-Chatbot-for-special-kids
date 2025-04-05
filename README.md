@@ -36,9 +36,7 @@ This project aligns with **Sustainable Development Goal (SDG) 12: Responsible Co
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/axiomchronicles/ai-special-assist.git
-cd ai-special-assist
-```
+git clone https:https://github.com/monikagotnochills/AI-powered-Chatbot-for-special-kids
 
 ### 2. Open the Application
 Simply open `index.html` in a modern browser (Chrome recommended for full voice support).
@@ -100,9 +98,9 @@ This project is licensed under the **MIT License** — feel free to use, modify,
 
 ## 📬 Contact
 
-- **Name:** Pawan Kumar  
-- **Email:** [pawankumar730793@gmail.com](mailto:pawankumar730793@gmail.com)  
-- **LinkedIn:** [Pawan Kumar](https://www.linkedin.com/in/pawan-kumar-672356327)  
-- **GitHub:** [axiomchronicles](https://github.com/axiomchronicles)
+- **Name:** Monika sharma 
+- **Email:** [ms3319341@gmail.com](mailto:ms3319341@gmail.com)  
+- **LinkedIn:** [monika sharma](https://www.linkedin.com/in/monika-sharma-07a135319/)  
+
 
 ---
